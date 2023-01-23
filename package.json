@@ -6,7 +6,7 @@
   "homepage": "http://luizarnoldch.github.io/gym-landing-typescript",
   "scripts": {
     "dev": "vite",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "format": "prettier --write .",
     "build": "tsc && vite build",
     "preview": "vite preview"
